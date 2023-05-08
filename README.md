@@ -44,3 +44,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt=“Slack” width="40" height="40"/>
       </a>
   </p>
+  
+  HABILIDADES:
+Filosofía Agile y marco de trabajo Scrum.
+Trabajo en equipo y comunicación efectiva.
+Trabajo en remoto.
