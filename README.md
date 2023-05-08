@@ -45,7 +45,7 @@
       </a>
   </p>
   
-  HABILIDADES:
-Filosofía Agile y marco de trabajo Scrum.
-Trabajo en equipo y comunicación efectiva.
-Trabajo en remoto.
+  #  HABILIDADES:  
+    - Filosofía Agile y marco de trabajo Scrum.  
+    - Trabajo en equipo y comunicación efectiva.  
+    - Trabajo en remoto.  
