@@ -1,3 +1,6 @@
+<div align="center">
+<img width="100%" " src="" alt="cover" />
+</div>
 <h1 align="center" style="color:#ff7800">
 ~ Hi there 👋🏻,  I am Isabel Collado
 </h1>
@@ -44,8 +47,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt=“Slack” width="40" height="40"/>
       </a>
   </p>
-  
-  #  HABILIDADES:  
-    - Filosofía Agile y marco de trabajo Scrum.  
-    - Trabajo en equipo y comunicación efectiva.  
-    - Trabajo en remoto.  
+
+  # HABILIDADES:
+
+  - Filosofía Agile y marco de trabajo Scrum.
+  - Trabajo en equipo y comunicación efectiva.
+  - Trabajo en remoto.
