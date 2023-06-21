@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" " src="" alt="cover" />
+<img width="50%" " src="https://github.com/IsabelCollado/IsabelCollado/blob/main/Logo.png" alt="cover" />
 </div>
 <h1 align="center" style="color:#ff7800">
 ~ Hi there 👋🏻,  I am Isabel Collado
