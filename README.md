@@ -40,9 +40,6 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt=“Git” width="40" height="40"/>
       </a>
-      <a href="https://zeplin.io/" target="_blank" rel="noreferrer">
-      <img src="https://ibb.co/ZxmGcsq" alt=“Zeplin” width="40" height="40"/>
-      </a>
       <a href="https://slack.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt=“Slack” width="40" height="40"/>
       </a>
